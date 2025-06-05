@@ -36,7 +36,7 @@ Modüler yapısı sayesinde başka sistemlere kolayca entegre edilebilir.
   *Selen Başoğlu: Lider*
 - 2320191040 - Dilruba Şahin: *group member*  
   *Dilruba Şahin: Grup üyesi*
-- 2320191023 - Azranur Gül: *group member* 
+- 2320191023 - Azranur Gül: *group member* <br>
   *Azranur Gül: Grup üyesi*
 
 ---
