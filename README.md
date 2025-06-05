@@ -17,15 +17,15 @@ This project analyzes the security of the password received from the user and of
 
 ## Features / *Özellikler*
 
-- **Password Strength Scoring**: Evaluates password strength based on length, character diversity, and entropy.
+- **Password Strength Scoring**: Evaluates password strength based on length, character diversity, and entropy.<br>
 Parola uzunluğu, karakter çeşitliliği ve karmaşıklığına göre puanlama yapar.
-- **Common Password Detection**: Checks if the password exists in a list of commonly used or leaked passwords. 
+- **Common Password Detection**: Checks if the password exists in a list of commonly used or leaked passwords.<br>
 Parolanın yaygın veya sızdırılmış bir parola olup olmadığını kontrol eder.
-- **Strong Password Suggestions**: Recommends stronger password alternatives based on best practices.
+- **Strong Password Suggestions**: Recommends stronger password alternatives based on best practices.<>br
 Güçlü parola oluşturma kurallarına göre alternatifler önerir.
-- **Real-time Feedback (Optional)**: Provides live feedback as the user types (in GUI version).
+- **Real-time Feedback (Optional)**: Provides live feedback as the user types (in GUI version).<br>
 (Opsiyonel) Kullanıcı yazarken gerçek zamanlı geri bildirim verir.
-- **Modular & Extendable**: Easy to integrate into other systems or expand with new checks.
+- **Modular & Extendable**: Easy to integrate into other systems or expand with new checks.<br>
 Modüler yapısı sayesinde başka sistemlere kolayca entegre edilebilir.
 
 
