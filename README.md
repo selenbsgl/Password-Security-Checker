@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# Password Security Checker
+*Şifre Güvenlik Denetleyicisi*
 
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+This project analyzes the security of the password received from the user and offers a strong password suggestion if necessary..  
+*Bu proje, kullanıcıdan alınan parolanın güvenliğini analiz eder ve gerekirse güçlü bir parola önerisi sunar.*
 
 ---
 
@@ -30,12 +30,12 @@ A brief, engaging description of your project.
 
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+- 2320191049- Selen Başoğlu: *group leader*  
+  *Selen Başoğlu: Lider*
+- 2320191040 - Dilruba Şahin: *group member*  
+  *Dilruba Şahin: Grup üyesi*
+- 2320191023 - Azranur Gül: *group member* 
+  *Azranur Gül: Grup üyesi*
 
 ---
 
